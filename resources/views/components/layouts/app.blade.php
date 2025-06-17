@@ -113,7 +113,7 @@
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Latest Projects</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> testimonial</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Our Team</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Contact Us</a>
+                            <a href="/contactus" wire:navigate><i class="fas fa-angle-right me-2"></i> Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">

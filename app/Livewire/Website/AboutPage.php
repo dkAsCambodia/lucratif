@@ -6,6 +6,7 @@ class AboutPage extends Component
 {
     public function render()
     {
-        return view('livewire.website.about-page');
+        $title =   __('AboutUS - Company Overview');
+        return view('livewire.website.about-page')->title($title);
     }
 }

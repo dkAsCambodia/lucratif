@@ -28,11 +28,11 @@
                             <a href="404.html" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    <a href="/contactus" wire:navigate class="nav-item nav-link {{ Route::is('contactus') ? 'active' : '' }}">Contact</a>
                 </div>
                 <div class="d-flex align-items-center flex-nowrap pt-xl-0">
                     <button class="btn btn-primary btn-md-square mx-2" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button>
-                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 ms-2 flex-wrap flex-sm-shrink-0">Start Investa</a>
+                    <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 ms-2 flex-wrap flex-sm-shrink-0">Start Investment</a>
                 </div>
             </div>
         </nav>
