@@ -119,11 +119,11 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="text-white mb-4">Contact Info</h4>
-                            <a href=""><i class="fa fa-map-marker-alt me-2"></i> 123 Street, New York, USA</a>
+                            <a href=""><i class="fa fa-map-marker-alt me-2"></i> Unit No. 2403, 24th Floor, Tamouh Tower, Al Reem Island, Abu Dhabi, United Arab Emirates</a>
                             <a href=""><i class="fas fa-envelope me-2"></i> lucratif@gmail.com</a>
                             <a href=""><i class="fas fa-envelope me-2"></i> lucratif@gmail.com</a>
-                            <a href=""><i class="fas fa-phone me-2"></i> +012 345 67890</a>
-                            <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +012 345 67890</a>
+                            <a href=""><i class="fas fa-phone me-2"></i> +971 2 692 6876</a>
+                            <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +971 2 692 6876</a>
                             <div class="d-flex align-items-center">
                                 <a class="btn btn-light btn-md-square me-2" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-light btn-md-square me-2" href=""><i class="fab fa-twitter"></i></a>
