@@ -16,8 +16,8 @@
                 <div class="navbar-nav ms-auto py-0">
                     <a href="/" wire:navigate class="nav-item nav-link {{ Route::is('home') ? 'active' : '' }}">Home</a>
                     <a href="/about-us/company-overview" wire:navigate class="nav-item nav-link {{ Route::is('aboutus') ? 'active' : '' }}">About</a>
-                    <a href="service.html" class="nav-item nav-link">Services</a>
-                    <a href="project.html" class="nav-item nav-link">Projects</a>
+                    <a href="/investment-insights" wire:navigate class="nav-item nav-link {{ Route::is('investinsight') ? 'active' : '' }}">Investment Insights</a>
+                    <a href="https://gconlive.com" class="nav-item nav-link">GCON</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
