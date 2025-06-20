@@ -111,9 +111,9 @@
                             <a href="/investment-insights" wire:navigate><i class="fas fa-angle-right me-2"></i> Investment Services</a>
                             <a href="/about-us/company-overview" wire:navigate><i class="fas fa-angle-right me-2"></i> About Us</a>
                             <a href="https://gconlive.com"><i class="fas fa-angle-right me-2"></i> GCON</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> testimonial</a>
-                            <a href="/about-us/company-overview" wire:navigate><i class="fas fa-angle-right me-2"></i> Our Team</a>
                             <a href="/contactus" wire:navigate><i class="fas fa-angle-right me-2"></i> Contact Us</a>
+                            <a href="/disclaimer" wire:navigate><i class="fas fa-angle-right me-2"></i> Disclaimer & copyright</a>
+                            <a href="/about-us/company-overview" wire:navigate><i class="fas fa-angle-right me-2"></i>Privacy policy</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
@@ -186,8 +186,6 @@
     <script src="{{ URL::to('web/assets/lib/counterup/counterup.min.js') }}"></script>
     <script src="{{ URL::to('web/assets/lib/owlcarousel/owl.carousel.min.js') }}"></script>
     <script src="{{ URL::to('web/assets/lib/lightbox/js/lightbox.min.js') }}"></script>
-    
-
     <!-- Template Javascript -->
     <script src="{{ URL::to('web/assets/js/main.js') }}"></script>
     </body>
