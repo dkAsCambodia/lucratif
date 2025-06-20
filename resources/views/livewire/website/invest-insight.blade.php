@@ -85,8 +85,66 @@
         </div>
         <!-- Services End -->
 
+        <!-- Project Start -->
+        <div class="container-fluid project">
+            <div class="container">
+                <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
+                    <h4 class="text-primary">Our Projects</h4>
+                    <h1 class="display-4">Explore Our Latest Projects</h1>
+                </div>
+                <div class="project-carousel owl-carousel wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="project-item h-100 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="project-img">
+                            <img src="{{ URL::to('web/assets/img/projects-1.jpg') }}" class="img-fluid w-100 rounded" alt="Image">
+                        </div>
+                        <div class="project-content bg-light rounded p-4">
+                            <div class="project-content-inner">
+                                <div class="project-icon mb-3"><i class="fas fa-chart-line fa-4x text-primary"></i></div>
+                                <p class="text-dark fs-5 mb-3">Business Growth</p>
+                                <a href="#" class="h4">Business Strategy And Investment Planning Growth of Asia</a>
+                                <div class="pt-4">
+                                    <a class="btn btn-light rounded-pill py-3 px-5" href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item h-100 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="project-img">
+                            <img src="{{ URL::to('web/assets/img/projects-1.jpg') }}" class="img-fluid w-100 rounded" alt="Image">
+                        </div>
+                        <div class="project-content bg-light rounded p-4">
+                            <div class="project-content-inner">
+                                <div class="project-icon mb-3"><i class="fas fa-signal fa-4x text-primary"></i></div>
+                                <p class="text-dark fs-5 mb-3">Community engagement and volunteering</p>
+                                <a href="#" class="h4">Our teams across geographies are dedicated to volunteering with select local charity and welfare associations in fundraising, education, elderly engagement and other community building efforts to help the local communities.</a>
+                                <div class="pt-4">
+                                    <a class="btn btn-light rounded-pill py-3 px-5" href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-item h-100">
+                        <div class="project-img">
+                            <img src="{{ URL::to('web/assets/img/projects-1.jpg') }}" class="img-fluid w-100 rounded" alt="Image">
+                        </div>
+                        <div class="project-content bg-light rounded p-4">
+                            <div class="project-content-inner">
+                                <div class="project-icon mb-3"><i class="fas fa-signal fa-4x text-primary"></i></div>
+                                <p class="text-dark fs-5 mb-3">Investor education</p>
+                                <a href="#" class="h4">We seek to empower everyone to make sound financial decisions and enhance their financial literacy with educational content on investing. </a>
+                                <div class="pt-4">
+                                    <a class="btn btn-light rounded-pill py-3 px-5" href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Project End -->
+
         <!-- Testimonial Start -->
-        <div class="container-fluid testimonial bg-light py-5">
+        <div class="container-fluid testimonial bg-light">
             <div class="container py-5">
                 <div class="row g-4 align-items-center">
                     <div class="col-xl-4 wow fadeInLeft" data-wow-delay="0.1s">
