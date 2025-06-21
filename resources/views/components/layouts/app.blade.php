@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8">
-        <title>{{ $title ?? 'Investment Website' }}</title>
+        <title>{{ $title ?? 'Investment - Lucratif LLC' }}</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
@@ -32,8 +32,6 @@
     </head>
 
     <body>
-        <!-- =========================Header=========================== -->
-        {{-- <livewire:website.header /> --}}
         <!-- Spinner Start -->
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -47,8 +45,8 @@
                 <div class="row gx-0 align-items-center" style="height: 45px;">
                     <div class="col-lg-8 text-center text-lg-start mb-lg-0">
                         <div class="d-flex flex-wrap">
-                            <a href="#" class="text-muted me-4"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
-                            <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-primary me-2"></i>+01234567890</a>
+                            <a href="https://www.google.com/maps/place/Tamouh+Tower+-+Al+Reem+Island+-+RT1+-+Abu+Dhabi/@24.488115,54.395024,16z/data=!4m6!3m5!1s0x3e5e67b5cc74be05:0xdf92995f815f96d8!8m2!3d24.4881152!4d54.3950242!16s%2Fg%2F12hv47tvg?hl=en&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="text-muted me-4"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
+                            <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-primary me-2"></i>+971 2 692 6876</a>
                             <a href="#" class="text-muted me-0"><i class="fas fa-envelope text-primary me-2"></i>lucratif@gmail.com</a>
                         </div>
                     </div>
@@ -113,7 +111,7 @@
                             <a href="https://gconlive.com"><i class="fas fa-angle-right me-2"></i> GCON</a>
                             <a href="/contactus" wire:navigate><i class="fas fa-angle-right me-2"></i> Contact Us</a>
                             <a href="/disclaimer" wire:navigate><i class="fas fa-angle-right me-2"></i> Disclaimer & copyright</a>
-                            <a href="/about-us/company-overview" wire:navigate><i class="fas fa-angle-right me-2"></i>Privacy policy</a>
+                            <a href="/privacypolicy" wire:navigate><i class="fas fa-angle-right me-2"></i>Privacy policy</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
