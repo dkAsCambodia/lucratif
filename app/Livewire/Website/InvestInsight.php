@@ -6,7 +6,7 @@ class InvestInsight extends Component
 {
     public function render()
     {
-        $title =   __('Investment Insights');
+        $title =   __('Investment Insights - Lucratif LLC');
         return view('livewire.website.invest-insight')->title($title);
     }
 }

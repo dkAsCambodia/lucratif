@@ -18,7 +18,7 @@
                     <a href="/about-us/company-overview" wire:navigate class="nav-item nav-link {{ Route::is('aboutus') ? 'active' : '' }}">About</a>
                     <a href="/investment-insights" wire:navigate class="nav-item nav-link {{ Route::is('investinsight') ? 'active' : '' }}">Investment Insights</a>
                     <a href="https://gconlive.com" class="nav-item nav-link">GCON</a>
-                    <div class="nav-item dropdown">
+                    {{-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
                             <a href="blog.html" class="dropdown-item">Our Blog</a>
@@ -27,7 +27,7 @@
                             <a href="faqs.html" class="dropdown-item">FAQs</a>
                             <a href="404.html" class="dropdown-item">404 Page</a>
                         </div>
-                    </div>
+                    </div> --}}
                     <a href="/contactus" wire:navigate class="nav-item nav-link {{ Route::is('contactus') ? 'active' : '' }}">Contact</a>
                 </div>
                 <div class="d-flex align-items-center flex-nowrap pt-xl-0">
