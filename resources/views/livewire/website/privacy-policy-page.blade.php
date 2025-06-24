@@ -25,6 +25,6 @@
                         <p class="text ps-4 mb-4">Marketing Partners means our service providers, intermediaries, pension trustees (and other stakeholders), scheme advisors, introducers and selected third party financial and insurance product providers.</p>
                     </div>
                 </div>
-            </div> 
+            </div>  
         </div>
 </div>
