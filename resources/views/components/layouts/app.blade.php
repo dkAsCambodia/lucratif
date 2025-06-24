@@ -96,8 +96,10 @@
                                 <h4 class="text-white mb-4">Newsletter</h4>
                                 <p class="mb-3">Investment involves risk. Past performance and the predictions, projections, or forecasts on the economy, securities markets or the economic trends of the markets are not necessarily indicative of the future or likely performance of Eastspring or any of the funds managed by Eastspring.</p>
                                 <div class="position-relative mx-auto rounded-pill">
-                                    <input class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter your email">
-                                    <button type="button" class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">SignUp</button>
+                                    <form>
+                                    <input class="form-control rounded-pill w-100 py-3 ps-4 pe-5" type="email" placeholder="Enter your email" required>
+                                    <button type="submit" class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2">SignUp</button>
+                                    </form>
                                 </div>
                             </div>
                         </div>
