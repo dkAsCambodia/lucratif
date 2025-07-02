@@ -12,7 +12,7 @@
                 <div class="row g-5 align-items-center">
                      <div class="col-lg-12 col-xl-12 wow" data-wow-delay="0.3s">
                         {{-- <h4 class="text-primary">Who we are</h4> --}}
-                        <h1 class="mb-4">Lucratif LLC Privacy Notice (Local & GDPR Combined Privacy Notice)</h1>
+                        <h1 class="mb-4">Lucratif LLC Privacy Notice (Local & GDPR Combined Privacy Notice)</h1> 
                         <p class="text ps-4 mb-4">We, Lucratif LLC Investments (Dubai) Limited, take the privacy and protection of your personal data seriously.</p>
                         <p class="text ps-4 mb-4">So, we’ve set out the below information about our processing of your personal data, what rights you have, and how you can get in touch if you want to know more.</p>
                         <p class="text ps-4 mb-4">When we say “personal data”, we mean information about you, such as your name, date of birth and contact details. We collect personal data from you that is necessary for us to either provide you with the product or service you’ve requested or to comply with statutory or contractual requirements. Unfortunately, if you’re unable to provide certain personal data which is necessary for us to provide our products and/or services to you, we will not be able to provide you with those products and/or services.</p>
