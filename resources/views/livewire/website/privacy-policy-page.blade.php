@@ -23,7 +23,7 @@
                         <p class="text ps-4 mb-4">The Prudential Group means Prudential plc, Prudential Holdings Limited, Lucratif LLC Investments and any other affiliates of Prudential plc. Prudential plc is not affiliated in any manner with Prudential Financial, Inc., a company whose principal place of business is in the United States of America or with the Prudential Assurance Company, a subsidiary of M&G plc, a company incorporated in the United Kingdom.</p>
                         <p class="text ps-4 mb-4">Business Partners means our service providers, accountants, auditors, IT service and platform providers, intermediaries, reinsurers, investment managers, agents, pension trustees (and other stakeholders), scheme advisors, introducers, selected third party financial and insurance product providers, and our legal advisers.</p>
                         <p class="text ps-4 mb-4">Marketing Partners means our service providers, intermediaries, pension trustees (and other stakeholders), scheme advisors, introducers and selected third party financial and insurance product providers.</p>
-                    </div>
+                    </div> 
                 </div>
             </div>  
         </div>
