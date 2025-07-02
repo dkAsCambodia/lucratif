@@ -105,7 +105,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-1.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
+                                <img src="{{ URL::to('web/assets/img/team1.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -126,7 +126,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-2.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
+                                <img src="{{ URL::to('web/assets/img/team2.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -147,7 +147,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-3.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
+                                <img src="{{ URL::to('web/assets/img/team3.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -168,7 +168,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-4.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
+                                <img src="{{ URL::to('web/assets/img/team4.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
