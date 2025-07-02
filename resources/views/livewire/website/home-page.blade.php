@@ -63,8 +63,7 @@
                     <div class="col-lg-6 col-xl-7 wow fadeInRight" data-wow-delay="0.3s">
                         <h4 class="text-primary">About Us</h4>
                         <h1 class="display-5 mb-4">The most Profitable Investments company in worldwide.</h1>
-                        <p class="text ps-4 mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores atque nihil unde quisquam, deleniti illo a. Quam harum laboriosam, laudantium, deleniti perferendis voluptates ex non laborum libero magni, minus illo!
-                        </p>
+                        <p class="text ps-4 mb-4">We have a long history of investing in Asia and the Global Emerging Markets, as well as deep expertise across styles and market capitalisations.</p>
                         <div class="row g-4 justify-content-between mb-5">
                             <div class="col-lg-6 col-xl-5">
                                 <p class="text-dark"><i class="fas fa-check-circle text-primary me-1"></i> Strategy & Consulting</p>
@@ -148,8 +147,7 @@
                             <div class="service-content text-center p-4">
                                 <div class="service-content-inner">
                                     <a href="#" class="h4 mb-4 d-inline-flex text-start"><i class="fas fa-donate fa-2x me-2"></i> Business Strategy Invesments</a>
-                                    <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum nobis est sapiente natus officiis maxime
-                                    </p>
+                                    <p class="mb-4">We aim to generate alpha and deliver superior long-term returns by exploiting mispriced opportunities and seeking out companies with superior growth potential.</p>
                                     <a class="btn btn-light rounded-pill py-2 px-4" href="#">Read More</a>
                                 </div>
                             </div>
@@ -163,8 +161,7 @@
                             <div class="service-content text-center p-4">
                                 <div class="service-content-inner">
                                     <a href="#" class="h4 mb-4 d-inline-flex text-start"><i class="fas fa-donate fa-2x me-2"></i> Consultancy & Advice</a>
-                                    <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum nobis est sapiente natus officiis maxime
-                                    </p>
+                                    <p class="mb-4">We have a long history of investing in Asia and the Global Emerging Markets, as well as deep expertise across styles and market capitalisations.</p>
                                     <a class="btn btn-light rounded-pill py-2 px-4" href="#">Read More</a>
                                 </div>
                             </div>
@@ -178,8 +175,7 @@
                             <div class="service-content text-center p-4">
                                 <div class="service-content-inner">
                                     <a href="#" class="h4 mb-4 d-inline-flex text-start"><i class="fas fa-donate fa-2x me-2"></i> Invesments Planning</a>
-                                    <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum nobis est sapiente natus officiis maxime
-                                    </p>
+                                    <p class="mb-4">We conduct deep fundamental research to strengthen our stock conviction. We value debate and diversity which helps to distil our best ideas.</p>
                                     <a class="btn btn-light rounded-pill py-2 px-4" href="#">Read More</a>
                                 </div>
                             </div>
@@ -193,8 +189,7 @@
                             <div class="service-content text-center p-4">
                                 <div class="service-content-inner">
                                     <a href="#" class="h4 mb-4 d-inline-flex text-start"><i class="fas fa-donate fa-2x me-2"></i> Private Client Investment</a>
-                                    <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum nobis est sapiente natus officiis maxime
-                                    </p>
+                                    <p class="mb-4">We aim to build portfolios that capture optimal risk-return relationships. We exercise in-depth risk oversight to ensure the integrity of our processes.</p>
                                     <a class="btn btn-light rounded-pill py-2 px-4" href="#">Read More</a>
                                 </div>
                             </div>
@@ -368,7 +363,7 @@
                             </div>
                             <div class="team-content bg-dark text-center rounded-bottom p-4">
                                 <div class="team-content-inner rounded-bottom">
-                                    <h4 class="text-white">Mark D. Brock</h4>
+                                    <h4 class="text-white">Mark D. Brockssss</h4>
                                     <p class="text-muted mb-0">CEO & Founder</p>
                                 </div>
                             </div>
@@ -451,7 +446,7 @@
                         <div class="h-100 rounded">
                             <h4 class="text-primary">Our Feedbacks </h4>
                             <h1 class="display-4 mb-4">Clients are Talking</h1>
-                            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum atque soluta unde itaque. Consequatur quam odit blanditiis harum veritatis porro.</p>
+                            <p class="mb-4">We are invested in harnessing Asia’s potential while bringing a unique perspective of global markets to our clients. We help them navigate through the complexity of Asia’s diverse markets and make the most of its opportunities.</p>
                             <a class="btn btn-primary rounded-pill text-white py-3 px-5" href="#">Read All Reviews <i class="fas fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
@@ -460,13 +455,13 @@
                             <div class="testimonial-item bg-white rounded p-4 wow fadeInUp" data-wow-delay="0.3s">
                                 <div class="d-flex">
                                     <div><i class="fas fa-quote-left fa-3x text-dark me-3"></i></div>
-                                    <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eos impedit eveniet dolorem culpa ullam incidunt vero quo recusandae nemo? Molestiae doloribus iure,
-                                    </p>
+                                    <p class="mt-4">I seek to empower everyone to make sound financial decisions and enhance their financial literacy with educational content on investing.</p>
                                 </div>
                                 <div class="d-flex justify-content-end">
                                     <div class="my-auto text-end">
-                                        <h5>Person Name</h5>
-                                        <p class="mb-0">Profession</p>
+                                        <h5>Mrs LyLy</h5>
+                                        <p class="mb-0">Sales Manager</p>
+                                        <p class="mb-0">Invested in Singapure</p>
                                     </div>
                                     <div class="bg-white rounded-circle ms-3">
                                         <img src="{{ URL::to('web/assets/img/testimonial-1.jpg') }}" class="rounded-circle p-2" style="width: 80px; height: 80px; border: 1px solid; border-color: var(--bs-primary);" alt="">
@@ -476,13 +471,13 @@
                             <div class="testimonial-item bg-white rounded p-4 wow fadeInUp" data-wow-delay="0.5s">
                                 <div class="d-flex">
                                     <div><i class="fas fa-quote-left fa-3x text-dark me-3"></i></div>
-                                    <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eos impedit eveniet dolorem culpa ullam incidunt vero quo recusandae nemo? Molestiae doloribus iure,
-                                    </p>
+                                    <p class="mt-4">MoneyParenting is our investor education initiative that empowers parents with tools and resources to level up their own financial literacy, so that they can coach my children better towards a financially successful life.</p>
                                 </div>
                                 <div class="d-flex justify-content-end">
                                     <div class="my-auto text-end">
-                                        <h5>Person Name</h5>
-                                        <p class="mb-0">Profession</p>
+                                        <h5>Mrs Patty</h5>
+                                        <p class="mb-0">Branch Manager</p>
+                                        <p class="mb-0">Invested in Dubai</p>
                                     </div>
                                     <div class="bg-white rounded-circle ms-3">
                                         <img src="{{ URL::to('web/assets/img/testimonial-2.jpg') }}" class="rounded-circle p-2" style="width: 80px; height: 80px; border: 1px solid; border-color: var(--bs-primary);" alt="">
@@ -492,13 +487,14 @@
                             <div class="testimonial-item bg-white rounded p-4 wow fadeInUp" data-wow-delay="0.7s">
                                 <div class="d-flex">
                                     <div><i class="fas fa-quote-left fa-3x text-dark me-3"></i></div>
-                                    <p class="mt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam eos impedit eveniet dolorem culpa ullam incidunt vero quo recusandae nemo? Molestiae doloribus iure,
-                                    </p>
+                                    <p class="mt-4">In partnership with Prudence Foundation, the community investment arm of Prudential plc, I volunteer for sustainable initiatives focused on Children, Education and Disaster Preparedness and Recovery to make a lasting contribution
+                            to Asian societies. </p>
                                 </div>
                                 <div class="d-flex justify-content-end">
                                     <div class="my-auto text-end">
-                                        <h5>Person Name</h5>
-                                        <p class="mb-0">Profession</p>
+                                        <h5>Mr Mon</h5>
+                                        <p class="mb-0">Engineer</p>
+                                        <p class="mb-0">Invested in Thailend</p>
                                     </div>
                                     <div class="bg-white rounded-circle ms-3">
                                         <img src="{{ URL::to('web/assets/img/testimonial-3.jpg') }}" class="rounded-circle p-2" style="width: 80px; height: 80px; border: 1px solid; border-color: var(--bs-primary);" alt="">
@@ -531,8 +527,8 @@
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body my-2">
-                                        <h5>Dolor sit amet consectetur adipisicing elit.</h5>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo impedit, sapiente quis illo quia nulla atque maxime fuga minima ipsa quae cum consequatur, sit, delectus exercitationem odit officiis maiores! Neque, quidem corrupti modi architecto eos saepe incidunt dignissimos rerum.</p>
+                                        <h5>Explain investment options, risks, and opportunities</h5>
+                                        <p>A financial advisor in the context of investment helps individuals or organizations make smart decisions about how to manage and grow their money</p>
                                     </div>
                                 </div>
                             </div>
@@ -544,8 +540,8 @@
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="accordion-body my-2">
-                                        <h5>Dolor sit amet consectetur adipisicing elit.</h5>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo impedit, sapiente quis illo quia nulla atque maxime fuga minima ipsa quae cum consequatur, sit, delectus exercitationem odit officiis maiores! Neque, quidem corrupti modi architecto eos saepe incidunt dignissimos rerum.</p>
+                                        <h5>Environmentally sustainable businesses.</h5>
+                                        <p>Investment management or investment firms, they often specialize in various industries or sectors to diversify portfolios and align with investor goals. Common industries that investment firms or managers specialize in include:</p>
                                     </div>
                                 </div>
                             </div>
@@ -557,8 +553,8 @@
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body my-2">
-                                        <h5>Dolor sit amet consectetur adipisicing elit.</h5>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo impedit, sapiente quis illo quia nulla atque maxime fuga minima ipsa quae cum consequatur, sit, delectus exercitationem odit officiis maiores! Neque, quidem corrupti modi architecto eos saepe incidunt dignissimos rerum.</p>
+                                        <h5>Markets are unpredictable but everything possible</h5>
+                                        <p>Professional financial advisors follow regulations that prohibit them from making guarantees. Instead, they talk in terms of probabilities, diversification, and risk tolerance.</p>
                                     </div>
                                 </div>
                             </div>
@@ -570,8 +566,14 @@
                                 </h2>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                     <div class="accordion-body my-2">
-                                        <h5>Dolor sit amet consectetur adipisicing elit.</h5>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo impedit, sapiente quis illo quia nulla atque maxime fuga minima ipsa quae cum consequatur, sit, delectus exercitationem odit officiis maiores! Neque, quidem corrupti modi architecto eos saepe incidunt dignissimos rerum.</p>
+                                        <h5>Particularly attractive to investors — are a few core elements that show clarity, potential, and preparedness. Here’s what sets a standout investment business plan apart:</h5>
+                                        <p>Clear Value Proposition</p>
+                                        <p>Realistic, Data-Backed Projections</p>
+                                        <p>Strong Market Understanding</p>
+                                        <p>Solid Team Background</p>
+                                        <p>Clear Ask and Use of Funds</p>
+                                        <p>Scalability and Exit Strategy</p>
+                                        <p>Mitigated Risks and Contingency Plans</p>
                                     </div>
                                 </div>
                             </div>
