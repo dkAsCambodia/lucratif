@@ -105,7 +105,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-1.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image">
+                                <img src="{{ URL::to('web/assets/img/team-1.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -117,7 +117,7 @@
                             </div>
                             <div class="team-content bg-dark text-center rounded-bottom p-4">
                                 <div class="team-content-inner rounded-bottom">
-                                    <h4 class="text-white">Mark D. Brock</h4>
+                                    <h4 class="text-white">Mrs Mark Jen</h4>
                                     <p class="text-muted mb-0">CEO & Founder</p>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-2.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image">
+                                <img src="{{ URL::to('web/assets/img/team-2.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -138,7 +138,7 @@
                             </div>
                             <div class="team-content bg-dark text-center rounded-bottom p-4">
                                 <div class="team-content-inner rounded-bottom">
-                                    <h4 class="text-white">Mark D. Brock</h4>
+                                    <h4 class="text-white">Mr Pie</h4>
                                     <p class="text-muted mb-0">Director</p>
                                 </div>
                             </div>
@@ -147,7 +147,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-3.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image">
+                                <img src="{{ URL::to('web/assets/img/team-3.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -159,7 +159,7 @@
                             </div>
                             <div class="team-content bg-dark text-center rounded-bottom p-4">
                                 <div class="team-content-inner rounded-bottom">
-                                    <h4 class="text-white">Mark D. Brock</h4>
+                                    <h4 class="text-white">Mrs Da</h4>
                                     <p class="text-muted mb-0">IT Maganer</p>
                                 </div>
                             </div>
@@ -168,7 +168,7 @@
                     <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="team-item rounded">
                             <div class="team-img">
-                                <img src="{{ URL::to('web/assets/img/team-4.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image">
+                                <img src="{{ URL::to('web/assets/img/team-4.jpg') }}" class="img-fluid w-100 rounded-top" alt="Image" style="height:300px">
                                 <div class="team-icon">
                                     <a class="btn btn-primary btn-sm-square text-white rounded-circle mb-3" href=""><i class="fas fa-share-alt"></i></a>
                                     <div class="team-icon-share">
@@ -180,7 +180,7 @@
                             </div>
                             <div class="team-content bg-dark text-center rounded-bottom p-4">
                                 <div class="team-content-inner rounded-bottom">
-                                    <h4 class="text-white">Mark D. Brock</h4>
+                                    <h4 class="text-white">Mr kheang</h4>
                                     <p class="text-muted mb-0">Sales Manager</p>
                                 </div>
                             </div>
