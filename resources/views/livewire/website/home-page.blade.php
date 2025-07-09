@@ -335,7 +335,7 @@
 
 
        <!-- Team Start -->
-        <div class="container-fluid team py-5">
+        {{-- <div class="container-fluid team py-5">
             <div class="container py-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
                     <h4 class="text-primary">Our Team</h4>
@@ -428,7 +428,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <!-- Team End -->
 
 
